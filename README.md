@@ -1,9 +1,3 @@
-Siap 🔥 ini versi **README profesional**, clean, dan cocok untuk portfolio atau open-source GitHub.
-
-Kamu tinggal copy jadi `README.md`.
-
----
-
 # Instagram Followers Checker
 
 A lightweight, privacy-focused web application that analyzes Instagram exported data to identify accounts that do not follow you back.
